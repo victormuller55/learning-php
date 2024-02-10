@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Boletim Escolar</title>
-    <link rel="stylesheet" href="../a_boostrap/bootstrap.css">
-    <link rel="shortcut icon" type="imagex/png" href="./images/icon.png">
+    <link rel="stylesheet" href="../boostrap/bootstrap.css">
 </head>
 <body>
     <header class="p-3" style="background-color: rgba(0, 0, 0, 0.8);">
